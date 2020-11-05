@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/AryanKhorram/node3.git"
   },
-  "dependendcies":{
+  "dependendcies": {
     "express": "^4.17.1"
   },
   "keywords": [],
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AryanKhorram/node3/issues"
   },
-  "homepage": "https://github.com/AryanKhorram/node3#readme"
+  "homepage": "https://github.com/AryanKhorram/node3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
